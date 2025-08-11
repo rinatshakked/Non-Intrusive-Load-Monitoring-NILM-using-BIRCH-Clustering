@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual environments
+.venv/
+env/
+venv/
+*.env
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Data files (keep large/raw local only)
+KW.csv
+KVAR.csv
+data/
+logs/
+
+# Plots & generated artifacts
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# Jupyter & cache
+.ipynb_checkpoints/
+*.ipynb
+.cache/
